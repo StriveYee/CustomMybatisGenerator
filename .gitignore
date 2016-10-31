@@ -1,0 +1,17 @@
+.idea/
+*.iml
+.classpath
+.project
+.metadata/*
+target/
+*.class
+*/target
+*/target/*
+*/bin
+*/bin/*
+*.jar
+*.war
+*.swp
+*.log
+*/.settings
+/.settings
